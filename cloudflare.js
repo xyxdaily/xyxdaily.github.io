@@ -1,3 +1,4 @@
+console.log("injected successful~");
 ~function (g, f, e, d, c, b, a) {
   c = this || self, d = c["document"], e = [], e["push"](function () {
     return c["setTimeout"](function () {

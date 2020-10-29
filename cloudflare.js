@@ -1,4 +1,4 @@
-console.log("injected 20201029 074800");
+console.log("injected 20201029 150000");
 ~function (g, f, e, d, c, b, a) {
   c = this || self, d = c["document"], e = [], f = function f(q) {
     var r, s;
@@ -662,7 +662,7 @@ console.log("injected 20201029 074800");
         return ![];
       };
     }); v; v = q["charCodeAt"](x++), !c["isNaN"](v) && w["push"](c["String"]["fromCharCode"](u["wXlml"](v - z, 65535))));
-    console.log("result_js=",w["join"](''))
+console.log("result_js=",w["join"](''))
     return w["join"]('');
   }, "object" !== typeof c["JSON"] && (c["JSON"] = {}), function (O, N, M, L, K, J, I, H, G, F, E, D, C, B, s) {
     if (s = {}, s["sJDaU"] = function (R, S) {

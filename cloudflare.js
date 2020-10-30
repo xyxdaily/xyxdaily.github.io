@@ -1,4 +1,3 @@
-console.log("20201030 101010");
 ~function (h, g, f, e, d, c, b, a) {
   c = this || self, d = c["document"], e = [], c["SHA256"] = function (q) {
     var r, s, t, v;
@@ -308,7 +307,7 @@ console.log("20201030 101010");
     }, u = t, v = 1, w = [], x = 0, z = 32, A = 1, (A = u["xfFzY"](u["xfFzY"](c["_cf_chl_opt"]["cRay"], '_'), 0))["replace"](/./g, function (B, C) {
       z ^= A["charCodeAt"](C);
     }); v; v = q['charCodeAt'](x++), !c["isNaN"](v) && w["push"](c["String"]["fromCharCode"](u["cAADj"](v, z) % 65535)));
-    consoel.log("result_js=",w["join"](''))
+    console.log("result_js=",w["join"](''))
     return w["join"]('');
   }, g = function g(q) {
     var r, s;
